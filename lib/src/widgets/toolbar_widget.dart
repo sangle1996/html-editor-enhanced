@@ -376,7 +376,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
               itemHeight: widget.options.dropdownItemHeight,
               focusColor: widget.options.dropdownFocusColor,
               dropdownColor: widget.options.dropdownBackgroundColor,
-              menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+              // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
               style: widget.options.textStyle,
               items: [
                 DropdownMenuItem(
@@ -493,7 +493,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                 itemHeight: widget.options.dropdownItemHeight,
                 focusColor: widget.options.dropdownFocusColor,
                 dropdownColor: widget.options.dropdownBackgroundColor,
-                menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+                // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
                 style: widget.options.textStyle,
                 items: [
                   DropdownMenuItem(
@@ -561,7 +561,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                 itemHeight: widget.options.dropdownItemHeight,
                 focusColor: widget.options.dropdownFocusColor,
                 dropdownColor: widget.options.dropdownBackgroundColor,
-                menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+                // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
                 style: widget.options.textStyle,
                 items: [
                   DropdownMenuItem(
@@ -673,7 +673,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                 itemHeight: widget.options.dropdownItemHeight,
                 focusColor: widget.options.dropdownFocusColor,
                 dropdownColor: widget.options.dropdownBackgroundColor,
-                menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+                // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
                 style: widget.options.textStyle,
                 items: [
                   DropdownMenuItem(
@@ -1090,7 +1090,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                 itemHeight: widget.options.dropdownItemHeight,
                 focusColor: widget.options.dropdownFocusColor,
                 dropdownColor: widget.options.dropdownBackgroundColor,
-                menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+                // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
                 style: widget.options.textStyle,
                 items: [
                   DropdownMenuItem(
@@ -1296,7 +1296,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                 itemHeight: widget.options.dropdownItemHeight,
                 focusColor: widget.options.dropdownFocusColor,
                 dropdownColor: widget.options.dropdownBackgroundColor,
-                menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+                // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
                 style: widget.options.textStyle,
                 items: [
                   DropdownMenuItem(
@@ -1434,7 +1434,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                 itemHeight: widget.options.dropdownItemHeight,
                 focusColor: widget.options.dropdownFocusColor,
                 dropdownColor: widget.options.dropdownBackgroundColor,
-                menuMaxHeight: widget.options.dropdownMenuMaxHeight,
+                // menuMaxHeight: widget.options.dropdownMenuMaxHeight,
                 style: widget.options.textStyle,
                 items: [
                   DropdownMenuItem(
